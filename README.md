@@ -49,6 +49,8 @@
     <a href="https://github.com/JonasViana/Codar"><img align="center"
     src="https://github-readme-stats.vercel.app/api/pin/?username=jonasviana&repo=Codar&theme=material-palenight" /></a>
 </div>
+#
+#
 
 <div align="center">
   <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript">
