@@ -2,9 +2,7 @@
 
 <div>
     <ul>
-    <li>😁 - Estudante de desenvolvimento Web Full Stack na <a href="https://www.digitalhouse.com/br/
-        " target="_blank">Digital House</a>.</li>
-        <li>📘 - Aprendendo Sequelize</li>
+    <li>😁 -  Desenvolvedor Web Full Stack.</li>
         <li>👨🏻‍🎓 - Estudante de Ciencias da Computação</li>
         <li>📱 - Interesse em aprender desenvolvimento Mobile</li>
         <li> 📇 - Contato através das redes sociais ou por email: jonasvianadev@gmail.com </li>
