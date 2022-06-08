@@ -40,8 +40,8 @@
     src="https://github-readme-stats.vercel.app/api/pin/?username=jonasviana&repo=petshop-express&theme=material-palenight" /></a>
     <a href="https://github.com/JonasViana/fruto-e-fruta"><img align="center"
     src="https://github-readme-stats.vercel.app/api/pin/?username=jonasviana&repo=fruto-e-fruta&theme=material-palenight" /></a>
-    <a href="https://github.com/JonasViana/FilMatch-1"><img align="center"
-    src="https://github-readme-stats.vercel.app/api/pin/?username=jonasviana&repo=FilMatch-1&theme=material-palenight" /></a>
+    <a href="https://github.com/JonasViana/Filmatch"><img align="center"
+    src="https://github-readme-stats.vercel.app/api/pin/?username=jonasviana&repo=FilMatch&theme=material-palenight" /></a>
     <a href="https://github.com/JonasViana/landing-page-landify"><img align="center"
     src="https://github-readme-stats.vercel.app/api/pin/?username=jonasviana&repo=landing-page-landify&theme=material-palenight" /></a>
     <a href="https://github.com/JonasViana/Desafio-Reserva-Hotel-Syngenta-Digital"><img align="center"
