@@ -12,7 +12,7 @@
 <div align="center">
   <a href="https://github.com/jonasviana">
     <img height="180em"
-     src="https://github-readme-stats.vercel.app/api?username=jonasviana&custom_title=Histórico de Jonas Viana&show_icons=true&theme=material-palenight&include_all_commits=true&count_private=true" alt="Estatística de Jonas Viana"/>
+     src="https://github-readme-stats.vercel.app/api?username=jonasviana&custom_title=HistóricodeJonasViana&show_icons=true&theme=material-palenight&include_all_commits=true&count_private=true" alt="Estatística de Jonas Viana"/>
     <img height="180em"
      src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonasviana&custom_title=Linguagens&layout=compact&langs_count=7&theme=material-palenight" alt="Linguagens"/>
 </div>
