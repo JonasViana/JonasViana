@@ -36,8 +36,8 @@
 <h3 align="left">Repositórios interessantes:</h3>
     <a href="https://github.com/JonasViana/test-back-end-nodejs"><img align="center"
     src="https://github-readme-stats.vercel.app/api/pin/?username=jonasviana&repo=test-back-end-nodejs&theme=material-palenight" /></a>
-    <a href="https://github.com/JonasViana/petshop-express"><img align="center"
-    src="https://github-readme-stats.vercel.app/api/pin/?username=jonasviana&repo=petshop-express&theme=material-palenight" /></a>
+    <a href="https://github.com/JonasViana/teste-mks-front-end"><img align="center"
+    src="https://github-readme-stats.vercel.app/api/pin/?username=jonasviana&repo=teste-mks-front-end&theme=material-palenight" /></a>
     <a href="https://github.com/JonasViana/ToDoList-React"><img align="center"
     src="https://github-readme-stats.vercel.app/api/pin/?username=jonasviana&repo=ToDoList-React&theme=material-palenight" /></a>
     <a href="https://github.com/JonasViana/Filmatch"><img align="center"
