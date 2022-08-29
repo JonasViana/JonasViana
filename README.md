@@ -45,7 +45,7 @@
     <a href="https://github.com/JonasViana/git-hub-fetch"><img align="center"
     src="https://github-readme-stats.vercel.app/api/pin/?username=jonasviana&repo=git-hub-fetch&theme=material-palenight" /></a>
     <a href="https://github.com/JonasViana/teste-wevo"><img align="center"
-    src="https://github-readme-stats.vercel.app/api/pin/?username=jonasviana&repo=teste-wevo=material-palenight" /></a>
+    src="https://github-readme-stats.vercel.app/api/pin/?username=jonasviana&repo=teste-wevo&theme=material-palenight" /></a>
 </div>
 ##
 
